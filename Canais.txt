@@ -1,0 +1,39 @@
+#EXTM3U
+
+#EXTINF:1- tv-logo="" goup-title="", Animal Planet
+http://ruwbe3.kkile1web.com/v3/youshi//m1_ZJTh6oMdeOURwWyiA9cHgYQk_480p.m3u8?app_ver=10101&dev_limit=1&dev_id=5582189a&user_id=126007964&rst_status=0&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&app_id=com.global.brasiltvweb&session_id=7omueUHSLK2b&client_ip=128.201.96.162&auth_id=126007964_com.global.brasiltvweb&expired=1675688745&token=556949C5838802A3B065D4828D159580&media_code=m1_ZJTh6oMdeOURwWyiA9cHgYQk_480p
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
+
+#EXTINF:1- tv-logo="" goup-title="",
